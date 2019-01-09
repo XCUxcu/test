@@ -9,5 +9,5 @@ int main(void)
 	printf("%c %d %c \n",'a','a','a'+1);     //字符
 	printf("Hellow world\n");                //字符串
 	printf("%s\n","Hellow world");           //字符串
-	return 0;
+	return 0; //
 }
